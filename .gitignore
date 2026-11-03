@@ -3,3 +3,5 @@
 **/data/
 .idea/
 /chibach/
+__pycache__/
+jayesh/ai/models/*.csv
